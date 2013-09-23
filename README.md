@@ -1,0 +1,4 @@
+Bitmessage
+==========
+
+My Bitmessage Version
